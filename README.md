@@ -2,10 +2,10 @@
 
 
 # [Model 1]
-1. Model
+1. Model  
 ![model1](https://user-images.githubusercontent.com/91395200/172941768-70bec813-4315-4073-aeb9-49548c9d0c5c.png)
 
-2. Training with Training loss
+2. Training with Training loss  
 ![model1Loss](https://user-images.githubusercontent.com/91395200/172941796-fd2fa8c1-aa0c-4107-93b8-a810984df186.png)
 
 3. Test Accuracy
